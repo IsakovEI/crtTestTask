@@ -1,0 +1,9 @@
+{
+  "book": {
+    "author": "Роберт Мартин",
+    "id": 1,
+    "isElectronicBook": false,
+    "name": "Чистый код",
+    "year": 1998
+  }
+}

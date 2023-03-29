@@ -1,0 +1,8 @@
+{
+  "host": "http://192.168.99.100:5000/api/books",
+  "error_message_id_no_found": "Book with id <id> not found",
+  "error_message_name_is_required": "Name is required",
+  "book1": "src/test/resources/book1.json",
+  "book2": "src/test/resources/book2.json",
+  "book3Name": "Java: The Complete Reference"
+}
